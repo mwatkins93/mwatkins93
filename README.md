@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey I'm Matt. I started using R during my hydrology internship and MSc; nowadays Quarto is the foundation of my blog and I still use R to complete any analysis that I'm interested in.
 
-<!--
-**mwatkins93/mwatkins93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Languages, Software and Tools
+- HTML; CSS; R; Python; Markdown
+- RStudio; Quarto; Obsidian; VS Code
 
-Here are some ideas to get you started:
+### 🌱 Current Projects
+- Call of Duty E-Book
+- Car Dealership Web-crawler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out: mattw9@proton.me
+
+Cheers.
+
